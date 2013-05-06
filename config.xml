@@ -6,7 +6,7 @@
         id        = "org.nova-labs.nlbg4"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>NLBG4</name>
 
     <description>
         Resources for Nova Labs Build Group 4
